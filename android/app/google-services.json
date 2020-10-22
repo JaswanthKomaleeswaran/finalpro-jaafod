@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "978324352127",
+    "firebase_url": "https://jaswanthkomal10-a2015.firebaseio.com",
+    "project_id": "jaswanthkomal10-a2015",
+    "storage_bucket": "jaswanthkomal10-a2015.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:978324352127:android:a2d154c932ebf2834b234a",
+        "android_client_info": {
+          "package_name": "com.jaswanthk.finalpro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "978324352127-np0qo69bb5469098e62fqmlp38v1m040.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3-XKpc2ezjz52or2f6bekkFFqveGA1RE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "978324352127-np0qo69bb5469098e62fqmlp38v1m040.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

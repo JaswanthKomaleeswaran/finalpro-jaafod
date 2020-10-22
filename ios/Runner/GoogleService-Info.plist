@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>978324352127-gd1jbc8gcbj1c97oqhnmg79vare7fl5h.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.978324352127-gd1jbc8gcbj1c97oqhnmg79vare7fl5h</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDdTRWl-smrjY-rjIwpc0lETszfCnGRggI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>978324352127</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.jaswanthk.finalpro</string>
+	<key>PROJECT_ID</key>
+	<string>jaswanthkomal10-a2015</string>
+	<key>STORAGE_BUCKET</key>
+	<string>jaswanthkomal10-a2015.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:978324352127:ios:cede3043f501d7e74b234a</string>
+	<key>DATABASE_URL</key>
+	<string>https://jaswanthkomal10-a2015.firebaseio.com</string>
+</dict>
+</plist>
